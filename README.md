@@ -1,11 +1,10 @@
 # Advanced Lane Finding
 
-
 Overview
 ---
 This project follows the first (Self-Driving-Car-ND-Project-1) & improves upon it with more advanced lane detection techniques. Still based on the assumption of a fixed/mounted & centrally located front-facing camera, this project addresses the major weakness of the previous implementation for lane detection (Self-Driving-Car-ND-Project-1) which did not perform well around curves. Several image manipulation subroutines are implemented to extract useful information from individual images or frames of videos to detect lane lines, radius of curvatur & distance from the camera to the center lines of the road the vehicle is moving on.
 
-
+https://user-images.githubusercontent.com/76077647/126907377-696d4f9d-d790-47e9-8b93-fce55160a876.mp4
 
 Goals & Steps
 ---
