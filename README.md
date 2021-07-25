@@ -8,7 +8,8 @@ This project follows the first (Self-Driving-Car-ND-Project-1) & improves upon i
 https://user-images.githubusercontent.com/76077647/126907377-696d4f9d-d790-47e9-8b93-fce55160a876.mp4 
 
 In oder to accompish more accurate lane detection including radius of curvature, the project implements the following subroutines:
-Goals & Steps
+
+Steps
 ---
 * **Camera Calibration** - Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * **Image/Video Distortion Correctio** - Apply a distortion correction to raw images.
